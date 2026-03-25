@@ -7,7 +7,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 // https://vitejs.dev/config/
 export default defineConfig({
   server: {
-    port: 3000 // Set your desired port
+    port: 3010 // Set your desired port
   },
   plugins: [
     vue(),
